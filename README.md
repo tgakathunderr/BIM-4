@@ -115,6 +115,16 @@ BIM 4 replaces the monolithic neural network with 5 distinct, highly optimized b
 
 ---
 
+## 💡 Use Cases
+
+BIM 4 is designed to be highly modular and incredibly lightweight. Here is how you can use it:
+
+* **Video Game NPCs:** Because the engine takes less than 300MB of RAM and runs on a single CPU core, you can embed `DigitalSpecies` instances into games to power NPCs that actually learn from the player dynamically instead of relying on hardcoded behavior trees.
+* **Neuroscience & AI Research:** Skip the massive PyTorch overhead. Use BIM 4 as an open-source biological scaffold. You can instantly modify the Dopamine and Acetylcholine formulas in `brainstem.py` to test novel learning hypotheses and offline memory consolidation.
+* **Personal Digital Pets:** Use the Visual REPL to raise and train your own unique organism. Because it learns continuously, its personality and memory will be entirely unique to how you interact with it.
+
+---
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
